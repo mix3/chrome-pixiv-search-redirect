@@ -1,4 +1,4 @@
-* git clone git://github.com/mix3/chrome-pixiv-illust-daily-ranking-redirect.git
+* git clone git://github.com/mix3/chrome-pixiv-search-redirect.git
 * EDITOR=vim ppit set www.pixiv.net
 <pre>
 ---
