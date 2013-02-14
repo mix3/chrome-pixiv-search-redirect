@@ -1,0 +1,9 @@
+{
+    "name": "chrome-pixiv-search-redirect",
+    "version": "0.1",
+    "description": "chrome-pixiv-search-redirect",
+    "chrome_url_overrides": {
+        "newtab": "newTab.html"
+    },
+    "manifest_version": 2
+}
